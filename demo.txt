@@ -1,0 +1,82 @@
+1
+2
+Xiaomi Mi Electric Scooter 4 Pro
+SC-101
+7
+1,4
+1
+1
+1
+Stels Navigator 500
+BK-201
+9
+0
+1
+1
+3
+Haibike Trekking 4
+EB-301
+5
+3.8
+1
+1
+2
+Kugoo S3 Pro
+SC-102
+7
+1.8
+2
+1
+3
+Tern GSD Cargo E-Bike
+EB-302
+4
+8.0
+1
+1
+2
+Segway Ninebot Max G30
+SC-101
+1
+1
+Giant Escape 3 City
+BK-202
+15
+abc
+6
+0
+1
+1
+1
+Trek Marlin 5
+
+5
+0
+2
+3
+Giro Register MIPS Helmet
+HL-401
+0
+2
+1
+ChargePoint CPF25 Charging Station
+CS-501
+3.5
+2
+2
+
+CC-502
+7.2
+2
+4
+Bosch eBike Dock Station
+DS-503
+1.5
+2
+3
+Giro Aether Helmet
+HL-401
+3
+4
+5
+0
